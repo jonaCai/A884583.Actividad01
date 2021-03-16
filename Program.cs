@@ -12,7 +12,7 @@ namespace A884583.Actividad01
         {
             Console.WriteLine("Hola mundo!");
             Console.Write("Oprima una tecla para terminar: ");
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
