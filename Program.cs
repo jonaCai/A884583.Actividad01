@@ -10,6 +10,9 @@ namespace A884583.Actividad01
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola mundo!");
+            Console.Write("Oprima una tecla para terminar: ");
+            Console.ReadLine();
         }
     }
 }
